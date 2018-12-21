@@ -1,2 +1,2 @@
-# video-chatbot--fromssafy-
+# video-chatbot-from ssafy-
 video search chatbot
